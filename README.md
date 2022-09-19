@@ -23,10 +23,10 @@ Algorithmic strategies for buy and hold
 2.    Why, financial data for all five years
 #### **Reasons:**
 1. There is no one regression model that is best for predicting or forecasting variation in stock prices. 
-2. It depends on the type of data you are working with and the specific needs of your business.
-3. Regression analysis can handle many things. We can use regression analysis to do the following:
-  a. Model multiple independent variables
-  b. Include continuous and categorical variables
-  c. Use polynomial terms to model curvature
-  d. Assess interaction terms to determine whether the effect of one independent variable depends on the value of another variable
-4.Time-series analysis: This model uses historical data to identify patterns and trends that can be used to make predictions about future events.
+2. It depends on the type of data you are working with and the specific needs of your business. 
+3. Time-series analysis: This model uses historical data to identify patterns and trends that can be used to make predictions about future events.
+4. Regression analysis can handle many things. We can use regression analysis to do the following:
+  - Model multiple independent variables
+  - Include continuous and categorical variables
+  - Use polynomial terms to model curvature
+  - Assess interaction terms to determine whether the effect of one independent variable depends on the value of another variable
